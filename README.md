@@ -51,6 +51,6 @@ This project processes an input food image to provide detailed nutritional value
 
 Watch the video below to see a demonstration of the application:
 
-[![Food Image Nutrition Analyzer Demo](https://img.youtube.com/vi/Itg-G6YnxMs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Itg-G6YnxMs)
+[![Food Image Nutrition Analyzer Demo]](https://www.youtube.com/watch?v=Itg-G6YnxMs)
 
 ---
