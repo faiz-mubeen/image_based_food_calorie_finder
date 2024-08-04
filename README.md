@@ -1,6 +1,7 @@
 # Food Image Nutrition Analyzer
 
 This project processes an input food image to provide detailed nutritional values. It outputs a table with various nutritional information, including calories and food content, and a bar plot representing the quantity of each nutrient present in the food.
+![Example Image](data/app ss.png)
 
 ## Features
 
@@ -51,6 +52,6 @@ This project processes an input food image to provide detailed nutritional value
 
 Watch the video below to see a demonstration of the application:
 
-[![Food Image Nutrition Analyzer Demo]](https://www.youtube.com/watch?v=Itg-G6YnxMs)
+[![Food Image Nutrition Analyzer Demo](https://img.youtube.com/vi/Itg-G6YnxMs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Itg-G6YnxMs)
 
 ---
