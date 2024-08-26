@@ -1,6 +1,7 @@
 # Food Image Nutrition Analyzer
 
-This project processes an input food image to provide detailed nutritional values. It outputs a table with various nutritional information, including calories and food content, and a bar plot representing the quantity of each nutrient present in the food.
+This project processes an input food image to provide detailed nutritional values. It outputs a table with various nutritional information, including calories and food content, and a bar plot representing the quantity of each nutrient present in the food. Leveraged Vision Transformer (ViT) model pre-trained on ImageNet-21k for food recognition and nutrition API to extract calories of the recognized food.
+
 
 ![Image](https://github.com/faiz-mubeen/image_based_food_calorie_finder/blob/main/data/app%20ss.png)
 
